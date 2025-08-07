@@ -109,7 +109,7 @@ This dataset represents anonymized customer information relevant for churn predi
 
 ## 👤 Author
 
-## mehran Asgari
+## Mehran Asgari
 
 **Email:** [imehranasgari@gmail.com](mailto:imehranasgari@gmail.com)
 **GitHub:** [https://github.com/imehranasgari](https://github.com/imehranasgari)
